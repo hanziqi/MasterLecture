@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">索尼大师班</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="action_compose" />
+    <string name="action_delete" />
+    <string name="about">\n索尼大师班由索尼华东BC团队制作。本软件意在帮助索尼员工及索尼相关销售人员深入理解产品特点以及卖点为核心。
+        本软件内容均来自内部培训资料，严禁用于商业用途！
+        \n“SONY”、 “索尼”及相关图形等为索尼的注册商标。
+        \n如果您对本软件的使用或者内容有任何疑问，欢迎及时与我联系。
+        \n联系方式：
+    </string>
+
+
+</resources>
