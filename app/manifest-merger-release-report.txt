@@ -1,0 +1,251 @@
+-- Merging decision tree log ---
+manifest
+ADDED from AndroidManifest.xml:2:1
+	package
+		ADDED from AndroidManifest.xml:3:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:versionName
+		ADDED from AndroidManifest.xml:5:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:versionCode
+		ADDED from AndroidManifest.xml:4:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	xmlns:android
+		ADDED from AndroidManifest.xml:2:11
+uses-sdk
+ADDED from AndroidManifest.xml:7:5
+MERGED from com.android.support:appcompat-v7:21.0.3:15:5
+MERGED from com.android.support:support-v4:21.0.3:15:5
+	android:targetSdkVersion
+		ADDED from AndroidManifest.xml:9:9
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:minSdkVersion
+		ADDED from AndroidManifest.xml:8:9
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+application
+ADDED from AndroidManifest.xml:11:5
+MERGED from com.android.support:appcompat-v7:21.0.3:16:5
+MERGED from com.android.support:support-v4:21.0.3:16:5
+	android:label
+		ADDED from AndroidManifest.xml:14:9
+	android:allowBackup
+		ADDED from AndroidManifest.xml:12:9
+	android:icon
+		ADDED from AndroidManifest.xml:13:9
+	android:theme
+		ADDED from AndroidManifest.xml:15:9
+	android:logo
+		ADDED from AndroidManifest.xml:16:9
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from AndroidManifest.xml:17:9
+	android:value
+		ADDED from AndroidManifest.xml:19:13
+	android:name
+		ADDED from AndroidManifest.xml:18:13
+activity#com.example.hanzq.masterlecture.SplashActivity
+ADDED from AndroidManifest.xml:20:9
+	android:name
+		ADDED from AndroidManifest.xml:20:19
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:21:13
+action#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:22:17
+	android:name
+		ADDED from AndroidManifest.xml:22:25
+category#android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:23:17
+	android:name
+		ADDED from AndroidManifest.xml:23:27
+activity#com.example.hanzq.masterlecture.MainActivity
+ADDED from AndroidManifest.xml:26:9
+	android:label
+		ADDED from AndroidManifest.xml:28:13
+	android:name
+		ADDED from AndroidManifest.xml:27:13
+activity#com.example.hanzq.masterlecture.SettingActivity
+ADDED from AndroidManifest.xml:30:9
+	android:name
+		ADDED from AndroidManifest.xml:30:19
+activity#com.example.hanzq.masterlecture.About
+ADDED from AndroidManifest.xml:31:9
+	android:name
+		ADDED from AndroidManifest.xml:31:19
+activity#com.example.hanzq.masterlecture.Map
+ADDED from AndroidManifest.xml:32:9
+	android:name
+		ADDED from AndroidManifest.xml:32:19
+activity#com.example.hanzq.masterlecture.WalkmanLv1C1
+ADDED from AndroidManifest.xml:33:9
+	android:name
+		ADDED from AndroidManifest.xml:33:19
+activity#com.example.hanzq.masterlecture.WalkmanLv1C2
+ADDED from AndroidManifest.xml:34:9
+	android:name
+		ADDED from AndroidManifest.xml:34:19
+activity#com.example.hanzq.masterlecture.WalkmanLv1C3
+ADDED from AndroidManifest.xml:35:9
+	android:name
+		ADDED from AndroidManifest.xml:35:19
+activity#com.example.hanzq.masterlecture.WalkmanLv1C4
+ADDED from AndroidManifest.xml:36:9
+	android:name
+		ADDED from AndroidManifest.xml:36:19
+activity#com.example.hanzq.masterlecture.AlphaLv1C1
+ADDED from AndroidManifest.xml:37:9
+	android:name
+		ADDED from AndroidManifest.xml:37:19
+activity#com.example.hanzq.masterlecture.AlphaLv1C2
+ADDED from AndroidManifest.xml:38:9
+	android:name
+		ADDED from AndroidManifest.xml:38:19
+activity#com.example.hanzq.masterlecture.AlphaLv1C3
+ADDED from AndroidManifest.xml:39:9
+	android:name
+		ADDED from AndroidManifest.xml:39:19
+activity#com.example.hanzq.masterlecture.AlphaLv1C4
+ADDED from AndroidManifest.xml:40:9
+	android:name
+		ADDED from AndroidManifest.xml:40:19
+activity#com.example.hanzq.masterlecture.AlphaLv1C5
+ADDED from AndroidManifest.xml:41:9
+	android:name
+		ADDED from AndroidManifest.xml:41:19
+activity#com.example.hanzq.masterlecture.AlphaLv1C6
+ADDED from AndroidManifest.xml:42:9
+	android:name
+		ADDED from AndroidManifest.xml:42:19
+activity#com.example.hanzq.masterlecture.AlphaLv1C7
+ADDED from AndroidManifest.xml:43:9
+	android:name
+		ADDED from AndroidManifest.xml:43:19
+activity#com.example.hanzq.masterlecture.AlphaLv2C1
+ADDED from AndroidManifest.xml:44:9
+	android:name
+		ADDED from AndroidManifest.xml:44:19
+activity#com.example.hanzq.masterlecture.AlphaLv2C2
+ADDED from AndroidManifest.xml:45:9
+	android:name
+		ADDED from AndroidManifest.xml:45:19
+activity#com.example.hanzq.masterlecture.AlphaLv2C3
+ADDED from AndroidManifest.xml:46:9
+	android:name
+		ADDED from AndroidManifest.xml:46:19
+activity#com.example.hanzq.masterlecture.AlphaLv2C4
+ADDED from AndroidManifest.xml:47:9
+	android:name
+		ADDED from AndroidManifest.xml:47:19
+activity#com.example.hanzq.masterlecture.AlphaLv2C5
+ADDED from AndroidManifest.xml:48:9
+	android:name
+		ADDED from AndroidManifest.xml:48:19
+activity#com.example.hanzq.masterlecture.AlphaLv2C6_1
+ADDED from AndroidManifest.xml:49:9
+	android:name
+		ADDED from AndroidManifest.xml:49:19
+activity#com.example.hanzq.masterlecture.AlphaLv2C6_2
+ADDED from AndroidManifest.xml:50:9
+	android:name
+		ADDED from AndroidManifest.xml:50:19
+activity#com.example.hanzq.masterlecture.AlphaLv2C8
+ADDED from AndroidManifest.xml:51:9
+	android:name
+		ADDED from AndroidManifest.xml:51:19
+activity#com.example.hanzq.masterlecture.AlphaLv3C1
+ADDED from AndroidManifest.xml:52:9
+	android:name
+		ADDED from AndroidManifest.xml:52:19
+activity#com.example.hanzq.masterlecture.AlphaLv3C2
+ADDED from AndroidManifest.xml:53:9
+	android:name
+		ADDED from AndroidManifest.xml:53:19
+activity#com.example.hanzq.masterlecture.AlphaLv3C3
+ADDED from AndroidManifest.xml:54:9
+	android:name
+		ADDED from AndroidManifest.xml:54:19
+activity#com.example.hanzq.masterlecture.AlphaLv3C4
+ADDED from AndroidManifest.xml:55:9
+	android:name
+		ADDED from AndroidManifest.xml:55:19
+activity#com.example.hanzq.masterlecture.AlphaLv3C5
+ADDED from AndroidManifest.xml:56:9
+	android:name
+		ADDED from AndroidManifest.xml:56:19
+activity#com.example.hanzq.masterlecture.AlphaLv3C6
+ADDED from AndroidManifest.xml:57:9
+	android:name
+		ADDED from AndroidManifest.xml:57:19
+activity#com.example.hanzq.masterlecture.AlphaLv3C7
+ADDED from AndroidManifest.xml:58:9
+	android:name
+		ADDED from AndroidManifest.xml:58:19
+service#com.baidu.location.f
+ADDED from AndroidManifest.xml:59:9
+	android:enabled
+		ADDED from AndroidManifest.xml:61:13
+	android:process
+		ADDED from AndroidManifest.xml:60:13
+	android:name
+		ADDED from AndroidManifest.xml:59:18
+intent-filter#com.baidu.location.service_v2.2
+ADDED from AndroidManifest.xml:62:13
+action#com.baidu.location.service_v2.2
+ADDED from AndroidManifest.xml:63:17
+	android:name
+		ADDED from AndroidManifest.xml:63:25
+uses-permission#android.permission.INTERNET
+ADDED from AndroidManifest.xml:67:5
+	android:name
+		ADDED from AndroidManifest.xml:67:22
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from AndroidManifest.xml:68:5
+	android:name
+		ADDED from AndroidManifest.xml:68:22
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from AndroidManifest.xml:69:5
+	android:name
+		ADDED from AndroidManifest.xml:69:22
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from AndroidManifest.xml:70:5
+	android:name
+		ADDED from AndroidManifest.xml:70:22
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from AndroidManifest.xml:71:5
+	android:name
+		ADDED from AndroidManifest.xml:71:22
+uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
+ADDED from AndroidManifest.xml:72:5
+	android:name
+		ADDED from AndroidManifest.xml:72:22
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from AndroidManifest.xml:73:5
+	android:name
+		ADDED from AndroidManifest.xml:73:22
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from AndroidManifest.xml:74:5
+	android:name
+		ADDED from AndroidManifest.xml:74:22
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from AndroidManifest.xml:75:5
+	android:name
+		ADDED from AndroidManifest.xml:75:22
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from AndroidManifest.xml:76:5
+	android:name
+		ADDED from AndroidManifest.xml:76:22
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from AndroidManifest.xml:77:5
+	android:name
+		ADDED from AndroidManifest.xml:77:22
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from AndroidManifest.xml:78:5
+	android:name
+		ADDED from AndroidManifest.xml:78:22
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from AndroidManifest.xml:79:5
+	android:name
+		ADDED from AndroidManifest.xml:79:22
